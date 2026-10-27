@@ -48,3 +48,13 @@ Feedback is saved in `feedback.txt`. Each record contains the customer name, rat
 ## Testing
 
 The program was tested with invalid menu input, invalid ratings, feedback management, average calculation, deletion validation, and saving and loading feedback.
+
+## Screenshot
+
+The screenshots below show the Customer Feedback Portal running in the terminal.
+
+![Customer Feedback Portal running](feedback-portal-screenshot.png)
+
+![Customer Feedback Portal running - 2](feedback-portal-screenshot2.png)
+
+![Customer Feedback Portal running - 3](feedback-portal-screenshot3.png)
